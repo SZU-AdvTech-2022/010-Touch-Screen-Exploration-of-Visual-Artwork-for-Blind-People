@@ -1,0 +1,6 @@
+@article{REPO-010,
+    author = "Ahmetovic, Dragan and Kwon, Nahyun and Oh, Uran and Bernareggi, Cristian and Mascetti, Sergio",
+    journal = "The Web Conference",
+    title = "{Touch Screen Exploration of Visual Artwork for Blind People}",
+    year = "2021"
+}
